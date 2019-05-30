@@ -6,4 +6,7 @@
     <string name="title_activity_login">login</string>
     <string name="title_activity_register">register</string>
     <string name="title_activity_model_show">model_show</string>
+    <string name="SAVE">save</string>
+    <string name="NEW">new</string>
+    <string name="CHANGE">change</string>
 </resources>

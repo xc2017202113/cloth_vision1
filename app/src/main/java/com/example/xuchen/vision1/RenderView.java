@@ -60,8 +60,6 @@ public class RenderView implements GLSurfaceView.Renderer{
 
         }
 
-
-
     }
 
     public void onSurfaceChanged(GL10 gl, int w, int h) {
